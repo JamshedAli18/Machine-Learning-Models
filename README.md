@@ -9,7 +9,7 @@ A collection of machine learning models implemented using various algorithms and
 - **scripts/**: Python scripts for training and predictions.
 - **requirements.txt**: Dependencies.
 
-## Usage
+### Usage
 1. **Install dependencies**:
     ```bash
     pip install -r requirements.txt
