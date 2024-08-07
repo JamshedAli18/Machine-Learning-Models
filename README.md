@@ -8,7 +8,7 @@ A collection of machine learning models implemented using various algorithms and
 - **models/**: Saved models for each project.
 - **scripts/**: Python scripts for training and predictions.
 - **requirements.txt**: Dependencies.
-
+ 
 ### Usage
 1. **Install dependencies**:
     ```bash
