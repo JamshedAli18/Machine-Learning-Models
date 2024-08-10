@@ -27,4 +27,3 @@ A collection of machine learning models implemented using various algorithms and
 ## Projects
 1. **Iris Classification**: `notebooks/iris_classification.ipynb`
 2. **Titanic Survival Prediction**: `notebooks/titanic_survival.ipynb`
-3. **House Price Prediction**: `notebooks/house_price_prediction.ipynb`
