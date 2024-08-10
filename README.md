@@ -6,7 +6,6 @@ A collection of machine learning models implemented using various algorithms and
 - **data/**: Raw and processed datasets.
 - **notebooks/**: Jupyter notebooks for different projects.
 - **models/**: Saved models for each project.
-- **scripts/**: Python scripts for training and predictions.
 - **requirements.txt**: Dependencies.
  
 ### Usage
